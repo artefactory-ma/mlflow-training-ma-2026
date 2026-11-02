@@ -1,0 +1,6 @@
+# Installed by the first cell of the notebook (Colab).
+# Tested with mlflow 3.17.2, databricks-sdk 0.158, scikit-learn 1.8.0.
+mlflow[databricks]>=3.17
+databricks-sdk>=0.50
+scikit-learn>=1.6,<1.9
+openai
